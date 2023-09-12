@@ -20,16 +20,3 @@ Queen_Puzzle.py: The main file of the program, which includes the algorithm for 
 requirements.txt: A file containing the project dependencies.
 Usage
 In an 8x8 chessboard, indicate each queen's position as (row, column). The program will find all possible solutions for placing 8 queens on the chessboard and print them.
-
-Example:
-$ python main.py
-Solution 1:
-   1  2  3  4  5  6  7  8
-1  ♕           ♕        
-2     ♕        ♕        
-3        ♕     ♕        
-4           ♕  ♕        
-5        ♕  ♕           
-6     ♕           ♕     
-7  ♕              ♕     
-8        
